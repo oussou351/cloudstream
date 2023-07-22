@@ -507,7 +507,7 @@
     <string name="sort_updated_new">Tải lên (Mới đến Cũ)</string>
     <string name="sort_updated_old">Tải lên (Cũ đến Mới)</string>
     <string name="empty_library_no_accounts_message">Thư viện của bạn đang trống :(
-\nĐăng nhập vào tài khoản thư viện hoặc thêm phim vào thư viện cục bộ</string>
+\nĐăng nhập vào tài khoản thư viện hoặc thêm phim vào thư viện cục bộ.</string>
     <string name="open_with">Mở với</string>
     <string name="provider_info_meta">Siêu dữ liệu không có sẵn, video sẽ không được tải nếu nó không tồn tại trên trang web.</string>
     <string name="apk_installer_package_installer">PackageInstaller</string>
@@ -536,12 +536,29 @@
     <string name="pref_category_bypass">Bỏ qua ISP</string>
     <string name="subscription_deleted">Đã bỏ đăng ký %s</string>
     <string name="safe_mode_file">Tìm thấy tệp Safe mode!
-\nKhông tải bất cứ tiện ích nào khi khởi dộng cho đến khi tệp bị xoá</string>
+\nKhông tải bất cứ tiện ích mở rộng nào khi khởi động cho đến khi loại bỏ tệp.</string>
     <string name="revert">Trở lại</string>
     <string name="subscription_in_progress_notification">Đang cập nhật các phim đã đăng kí</string>
-    <string name="jsdelivr_proxy_summary">Bỏ qua chặn GitHub bằng cách dùng jsDelivr. Có thể gây ra việc cập nhật bị chậm vài ngày</string>
+    <string name="jsdelivr_proxy_summary">Bỏ qua chặn GitHub bằng cách dùng jsDelivr. Có thể gây ra việc cập nhật bị chậm vài ngày.</string>
     <string name="android_tv_interface_off_seek_settings_summary">Lượng tua thêm được sử dụng khi trình phát ẩn</string>
     <string name="android_tv_interface_off_seek_settings">Lượng tua thêm</string>
     <string name="android_tv_interface_on_seek_settings_summary">Lượng tua thêm được sử dụng khi trình phát hiện lên</string>
     <string name="android_tv_interface_on_seek_settings">Lượng tua thêm</string>
+    <string name="profile_number">Hồ sơ %d</string>
+    <string name="mobile_data">Dữ liệu di động</string>
+    <string name="set_default">Đặt mặc định</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="use">Sử dụng</string>
+    <string name="edit">Biên tập</string>
+    <string name="profiles">Hồ sơ</string>
+    <string name="help">Trợ giúp</string>
+    <string name="profile_background_des">Nền hồ sơ</string>
+    <string name="quality_profile_help">Tại đây bạn có thể thay đổi cách sắp xếp các nguồn. Nếu video có mức độ ưu tiên cao hơn thì video đó sẽ xuất hiện cao hơn trong lựa chọn nguồn. Tổng ưu tiên nguồn và ưu tiên chất lượng là ưu tiên video.
+\n
+\nNguồn A: 3
+\nChất lượng B: 7
+\nSẽ có mức độ ưu tiên video kết hợp là 10.
+\n
+\nLƯU Ý: Nếu tổng là 10 hoặc nhiều hơn, trình phát sẽ tự động bỏ tải khi liên kết đó được tải!</string>
+    <string name="qualities">Phẩm chất</string>
 </resources>

@@ -29,7 +29,7 @@
     <string name="search_hint">Търсене…</string>
     <string formatted="true" name="search_hint_site">Търси %s…</string>
     <string name="no_data">Няма данни</string>
-    <string name="episode_more_options_des">Още опций</string>
+    <string name="episode_more_options_des">Още опции</string>
     <string name="next_episode">Следващ епизод</string>
     <string name="result_tags">Жанрове</string>
     <string name="result_share">Сподели</string>
